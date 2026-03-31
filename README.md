@@ -1,5 +1,8 @@
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21+-brightgreen)
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Platform](https://img.shields.io/badge/Platform-Paper%20%7C%20Purpur-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
 
 # DeathItemDespawn
 
@@ -81,7 +84,6 @@ Matching items are:
 
 * Only affects items dropped from player deaths
 * Does NOT affect normal dropped items or mob drops
-* Fully compatible with water streams and explosions
 
 ---
 
